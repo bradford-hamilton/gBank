@@ -1,0 +1,50 @@
+body {
+  font-family: 'Crimson Text', serif;
+  background-color: #ced1d2
+}
+
+img {
+  width: 100%;
+  height: 300px;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+#hero {
+  font-size: 3.7rem;
+  text-shadow: 2px 2px #fba036;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+.headers {
+  font-style: italic;
+  font-size: 3rem;
+  text-shadow: 1px 1px #ffffff;
+}
+
+.orange {
+  background-color: #fba036;
+  height: 8rem;
+  width: 8rem;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.grey {
+  background-color: #707070;
+  height: 8rem;
+  width: 8rem;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.brown {
+  background-color: #794500;
+  height: 8rem;
+  width: 8rem;
+  border-radius: 50%;
+  display: inline-block;
+}
